@@ -14,7 +14,7 @@
 Replace `projectname` with your actual project name.
 
 ```
-git clone
+git clone git@github.com:bernice2599/Todo-App-Laravel.git
 install composer
 php artisan
 php artisan migrate
