@@ -11,8 +11,6 @@
 
 ## Installation
 
-Replace `projectname` with your actual project name.
-
 ```
 git clone https://github.com/bernice2599/Todo-App-Laravel.git
 install composer
