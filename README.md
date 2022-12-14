@@ -14,11 +14,10 @@
 Replace `projectname` with your actual project name.
 
 ```
-git clone git@github.com:bernice2599/Todo-App-Laravel.git projectname-Laravel
-cd projectname-Laravel
+git clone https://github.com/bernice2599/Todo-App-Laravel.git
 install composer
 cp .env.example .env # remember to set appropriate env variables
-php artisan migrate --seed
+php artisan migrate
 ```
 
 ## Tests
