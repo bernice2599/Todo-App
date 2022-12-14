@@ -8,3 +8,14 @@
 </p>
 
 ## Todo-App-Laravel
+
+## Installation
+
+Replace `projectname` with your actual project name.
+
+```
+git clone
+install composer
+php artisan
+php artisan migrate
+```
