@@ -23,6 +23,4 @@ php artisan migrate --seed
 
 ## Tests
 
-```
-Run test via php artisan test.
-```
+Run test via `php artisan test`.
