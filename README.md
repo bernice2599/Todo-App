@@ -20,4 +20,4 @@ php artisan migrate
 
 ## Tests
 
-Run test via `php artisan test`.
+Run test via `php artisan serve`.
